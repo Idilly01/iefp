@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:41:39.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="AmkqgYr7XBK5JnkzgK7A" version="24.7.1" type="device">
+  <diagram name="Página-1" id="5oOgfBJzllOH7nwSqqf0">
+    <mxGraphModel dx="1066" dy="1362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-2" value="consulta ao catalogo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="133" y="19" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-10" target="vRlJUJ1SAbrOA7_KQxyA-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-114" y="-31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-37" value="solicita o emprestimo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-36">
+          <mxGeometry x="0.1655" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.35;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-10" target="vRlJUJ1SAbrOA7_KQxyA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-46" value="solicita a devolução do livro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-44">
+          <mxGeometry x="0.1163" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-10" value="Usuário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353" y="-292" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-13" target="vRlJUJ1SAbrOA7_KQxyA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-57" value="confirmação do emprestimo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-56">
+          <mxGeometry x="-0.4281" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-13" target="vRlJUJ1SAbrOA7_KQxyA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-64" value="confirmação do emprestimo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-63">
+          <mxGeometry x="0.1806" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-13" value="empréstimos de livros" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="-302" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-16" target="vRlJUJ1SAbrOA7_KQxyA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-50" value="procura o livro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-49">
+          <mxGeometry x="0.1162" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-53" value="autorização de emprestimo" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.038;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-16" target="vRlJUJ1SAbrOA7_KQxyA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-16" value="bibliotecário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-107" y="-54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-19" target="vRlJUJ1SAbrOA7_KQxyA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-19" value="devolução de livros" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="-2" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-24" value="registo de novos livros" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="138" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-29" value="inventário" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="79" y="263" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.388;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-16" target="vRlJUJ1SAbrOA7_KQxyA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-31" value="solicita o registo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-30">
+          <mxGeometry x="-0.0802" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.917;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-24" target="vRlJUJ1SAbrOA7_KQxyA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-33" value="autentica o registo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-32">
+          <mxGeometry x="-0.2138" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.975;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-24" target="vRlJUJ1SAbrOA7_KQxyA-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-15" y="370" as="sourcePoint" />
+            <mxPoint x="35" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-35" value="adiciona o registo dos livros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-34">
+          <mxGeometry x="-0.0609" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.983;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-2" target="vRlJUJ1SAbrOA7_KQxyA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-52" value="entrega&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-51">
+          <mxGeometry x="-0.0884" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.988;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-16" target="vRlJUJ1SAbrOA7_KQxyA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-59" value="autorização da devolução" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-58">
+          <mxGeometry x="0.2633" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.875;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vRlJUJ1SAbrOA7_KQxyA-19" target="vRlJUJ1SAbrOA7_KQxyA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRlJUJ1SAbrOA7_KQxyA-62" value="confirmação da devolução" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="vRlJUJ1SAbrOA7_KQxyA-61">
+          <mxGeometry x="0.6869" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

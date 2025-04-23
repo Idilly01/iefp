@@ -1,0 +1,21 @@
+1- Conte nos sobre voce.
+2- quais empregos você ja trabalhou, e o que voce fazia?
+3. Por que quer trabalhar aqui?
+4 Quais foram suas realizacoes até o momento?
+5- o que tem feito desde o seu ultimo emprego?
+6- Quais são seus objetivos para  futuro?
+
+6-com qual tipo de desenvolvimento de software você trabalha no momento ?
+ 
+7-O que é o HTML ?
+HTML é uma linguagem de marcação utilizada na construção de páginas na Web
+ 
+8-Qual a diferença entre HTML e CSS?
+O HTML cria a estrutura e o conteúdo de uma página web, enquanto o CSS define o seu aspeto e layout.
+ 
+9- voce poderia me explicar como é a estrutura da equipe?
+ 
+A Estrutura da equipa  as tarefas, funções e  são atribuídas, 
+controladas e coordenadas entre os membros da equipe para atingir objetivos em comum.
+
+

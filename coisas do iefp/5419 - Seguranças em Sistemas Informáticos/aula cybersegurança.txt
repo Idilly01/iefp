@@ -1,0 +1,48 @@
+ping
+tracert
+
+esses comandos tracam até o caminho
+até o google, ou outros sitios
+
+conceito de rede a nivel da internet
+ 
+
+Conceito de rede local
+
+Cisco packet tracer: demonstracao de uma rede 
+em funcionamento.
+
+Lan: rede logada em local
+
+Dhcp: 
+faz um pedido na rede para conectar a internet para ganhar um ip
+
+manda para o switch e envia para todos menos para o que recebeu~
+
+
+
+Como proteger uma rede local?
+faster 
+
+giga
+
+
+a partir do momento em que a porta estiver fechada, nao é possivel a coneccao novamente.
+
+
+a placa de rede tem um mac adress, é um numero proprio dele
+composto de duas maneiras 
+
+ipconfig / all
+pysical adress (pode ser chamado dessa forma)
+
+os 3 primeiros sao o numero da placa de rede
+os 3 ultimos sao os numeros individuais
+
+
+
+
+
+
+
+
